@@ -31,3 +31,5 @@ Performance improvements from testing:
 🚀 -150% faster teleport loading
 
 Always make a backup before using the tool, just in case.
+
+Source code: https://github.com/qxZap/PakMergeMT
